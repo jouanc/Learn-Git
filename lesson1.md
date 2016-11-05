@@ -2,7 +2,7 @@
 
 Name
 ----
-Jouan
+**Jouan**
 
 
 Date
@@ -12,9 +12,9 @@ Date
 
 Github Username 
 ---------------
-jouanc
+**jouanc**
 
 
 My Favorite 3 Programming Languages
 --------------------------------
-Javascript
+1.Javascript
