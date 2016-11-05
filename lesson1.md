@@ -17,4 +17,4 @@ Github Username
 
 My Favorite 3 Programming Languages
 --------------------------------
-1.Javascript
+1. Javascript
